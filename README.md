@@ -1,0 +1,2 @@
+# musicoin
+virtual ICO - musicoin
